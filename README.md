@@ -1,5 +1,5 @@
 # Hey there, I’m @0xRomRom 👋
-## I'm a beginner front end developer.
+## I'm a beginner front end developer from 🇳🇱 🇳🇱
 ## My current tech & tooling consists of: HTML5, CSS3, ES6, NPM, Git, Parcel
 
 <!---
