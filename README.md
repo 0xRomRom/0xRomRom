@@ -2,7 +2,7 @@
 ## I'm a beginner front end developer from 🇳🇱
 ## On the journey from 0 to fullstack
 ## My tech & tooling consists of: HTML5, CSS3, ES6, Node.js, NPM, Basic CLI, Git
-## Current project: https://8bit-casino.netlify.app/
+## Current project: Developing & Deploying ERC721 Smart Contracts
 ## Check me out on Codepen: https://codepen.io/0xromrom
 
 <!---
