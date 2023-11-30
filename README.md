@@ -1,6 +1,6 @@
 # Hey there, I’m @0xRomRom 👋
 ## Front end developer from 🇳🇱
-## Currently working on: OSRSTools, Oldschool Runescape utility website
+## Currently working on: OSRSHelp, Oldschool Runescape utility website
 
 <!---
 0xRomRom/0xRomRom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
